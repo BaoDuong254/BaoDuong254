@@ -15,6 +15,6 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="./img/Tex.png" alt="c" width="80" height="40"/> 
+<img src="./img/tex.png" alt="c" width="40" height="40"/> 
 <img src="./img/git.svg" alt="git" width="40" height="40"/>
 </p>
