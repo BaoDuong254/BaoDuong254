@@ -3,7 +3,8 @@
 <img align="right" alt="coding" width="350" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/bao.duonggia.773/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bao.duonggia.773/" height="40" width="40" /></a>
+<a href="https://www.facebook.com/bao.duonggia.773/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bao.duonggia.773/" height="40" width="40" /></a>&nbsp;
+<a href="mailto:duonggiabao254@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" alt="duonggiabao254@gmail.com" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Progamming languages:</h3>
