@@ -7,14 +7,10 @@
 <a href="mailto:duonggiabao254@gmail.com" target="_blank"><img align="center" src="./img/gmail.png" alt="duonggiabao254@gmail.com" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Progamming languages:</h3>
+<h3 align="left">Language and tools:</h3>
 <p align="left"> 
 <img src="./img/c.svg" alt="c" width="40" height="40"/> 
 <img src="./img/cpp.svg" alt="cplusplus" width="40" height="40"/> 
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left">
 <img src="./img/tex.png" alt="c" width="45" height="45"/> 
 <img src="./img/git.svg" alt="git" width="40" height="40"/>
 </p>
