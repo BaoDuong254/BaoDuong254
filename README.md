@@ -6,7 +6,7 @@
   
 - 🌱 I’m passionate about **software development**
 
-- 👨‍💻 Visit my portfolio website [https://portfoliobao.vercel.app/](https://portfoliobao.vercel.app/)
+- 👨‍💻 Visit my portfolio website [https://portfoliobao.vercel.app](https://portfoliobao.vercel.app)
 
 - 📫 How to reach me **duonggiabao254@gmail.com**
 </p>
