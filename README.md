@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bao</h1>
 
 <h3 align="center">A student at Ho Chi Minh City University of Technology</h3>
+<img  align="right" alt="coding"  src="./image/gif.webp" width="150px">
+<p align="left">
+  
+- 🌱 I’m passionate about **software development**
 
-<p align="center">
-<img alt="coding"  src="./image/gif.webp">
+- 👨‍💻 Visit my portfolio [https://portfoliobao.vercel.app/](https://portfoliobao.vercel.app/)
+
+- 📫 How to reach me **duonggiabao254@gmail.com**
 </p>
+
+
 
 ## 🚀 Languages and Tools I Use
 
