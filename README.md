@@ -57,6 +57,7 @@
 <img  src="./image/linux.svg" alt="Linux" height="50" />  &nbsp; 
 <img  src="./image/bash.svg" alt="Bash" height="50" /> &nbsp;
 <img  src="./image/postman.svg" alt="Postman" height="50" /> 
+<img  src="./image/docker.svg" alt="Docker" height="50" /> 
 </div>
 
 ## ⚡️ Where to find me
