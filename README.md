@@ -49,15 +49,22 @@
 <img  src="./image/redis.svg" alt="Redis" height="50" />   
 </div>
 
-### Other
+### DevOps
+
+<div align="center">  
+<img  src="./image/linux.svg" alt="Linux" height="50" />  &nbsp; 
+<img  src="./image/bash.svg" alt="Bash" height="50" /> &nbsp;
+<img  src="./image/docker.svg" alt="Docker" height="50" /> &nbsp;
+<img  src="./image/nginx.svg" alt="Docker" height="50" />
+</div>
+
+### Tools
 
 <div align="center">  
 <img  src="./image/git.svg" alt="Git" height="50" />  &nbsp;
-<img  src="./image/latex.png" alt="Latex" height="50" />  &nbsp; 
-<img  src="./image/linux.svg" alt="Linux" height="50" />  &nbsp; 
-<img  src="./image/bash.svg" alt="Bash" height="50" /> &nbsp;
+<img  src="./image/latex.svg" alt="Latex" height="50" />  &nbsp; 
 <img  src="./image/postman.svg" alt="Postman" height="50" /> &nbsp;
-<img  src="./image/docker.svg" alt="Docker" height="50" /> 
+<img  src="./image/ngrok.svg" alt="Linux" height="50" />  
 </div>
 
 ## ⚡️ Where to find me
