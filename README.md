@@ -55,7 +55,8 @@
 <img  src="./image/linux.svg" alt="Linux" height="50" />  &nbsp; 
 <img  src="./image/bash.svg" alt="Bash" height="50" /> &nbsp;
 <img  src="./image/docker.svg" alt="Docker" height="50" /> &nbsp;
-<img  src="./image/nginx.svg" alt="Docker" height="50" />
+<img  src="./image/k8s.svg" alt="Kubernetes" height="50" /> &nbsp;
+<img  src="./image/nginx.svg" alt="Nginx" height="50" />
 </div>
 
 ### Tools
