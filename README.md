@@ -9,9 +9,10 @@
 - 👨‍💻 Visit my portfolio website [https://portfoliobao.vercel.app](https://portfoliobao.vercel.app)
 
 - 📫 Hit me up anytime **duonggiabao254@gmail.com**
+
+- 📄 Check out [my CV](https://drive.google.com/file/d/1n7-VEj_b1RSd0PfQgkY8IJJaYbz3LhrO/view?usp=sharing) for more details
+  
 </p>
-
-
 
 ## 🚀 Languages and Tools I Use
 
