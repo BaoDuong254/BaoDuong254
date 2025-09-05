@@ -21,7 +21,8 @@
 <div align="center">  
 <img  src="./image/c.svg" alt="C" height="50" /> &nbsp; 
 <img  src="./image/cpp.svg" alt="C++" height="50" />  &nbsp;
-<img  src="./image/js.svg" alt="JavaScript" height="50" />  
+<img  src="./image/js.svg" alt="JavaScript" height="50" /> &nbsp;
+<img  src="./image/typescript.svg" alt="TypeScript" height="50" />
 </div>
 
 ### Frontend Development
@@ -30,10 +31,9 @@
 <img  src="./image/html5.svg" alt="HTML5" height="50" /> &nbsp; 
 <img  src="./image/css3.svg" alt="CSS3" height="50" /> &nbsp; 
 <img  src="./image/bootstrap.svg" alt="Bootstrap" height="50" /> &nbsp; 
-<img  src="./image/pug.svg" alt="Pug/Jade" height="50" /> &nbsp; 
-<img  src="./image/ejs.svg" alt="EJS" height="50" /> &nbsp; 
-<img  src="./image/handlebars.svg" alt="Handlebars" height="50" /> &nbsp; 
-<img  src="./image/sass.svg" alt="Sass" height="50" />  
+<img  src="./image/tailwind.svg" alt="tailwind.svg" height="50" /> &nbsp; 
+<img  src="./image/reactjs.svg" alt="reactjs.svg" height="50" /> &nbsp; 
+<img  src="./image/nextjs.svg" alt="nextjs.svg" height="50" /> 
 </div>
 
 ### Backend Development
@@ -43,20 +43,24 @@
 <img  src="./image/expressjs.svg" alt="Express.js" height="90" />  
 </div>
 
+### Desktop Development
+
+<div align="center" style="margin-bottom:-30px">  
+<img  src="./image/electronjs.svg" alt="electronjs.svg" height="50" />
+</div>
+
 ### Database
 
 <div align="center">  
-<img  src="./image/mongoDB.svg" alt="MongoDB" height="50" /> &nbsp; 
-<img  src="./image/redis.svg" alt="Redis" height="50" />   
+<img  src="./image/mongoDB.svg" alt="MongoDB" height="50" /> &nbsp;
 </div>
 
-### DevOps
+### System & Deployment
 
 <div align="center">  
 <img  src="./image/linux.svg" alt="Linux" height="50" />  &nbsp; 
 <img  src="./image/bash.svg" alt="Bash" height="50" /> &nbsp;
 <img  src="./image/docker.svg" alt="Docker" height="50" /> &nbsp;
-<img  src="./image/k8s.svg" alt="Kubernetes" height="50" /> &nbsp;
 <img  src="./image/nginx.svg" alt="Nginx" height="50" />
 </div>
 
