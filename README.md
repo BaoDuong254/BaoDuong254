@@ -31,6 +31,7 @@
 <img  src="./image/html5.svg" alt="HTML5" height="50" /> &nbsp; 
 <img  src="./image/css3.svg" alt="CSS3" height="50" /> &nbsp; 
 <img  src="./image/bootstrap.svg" alt="Bootstrap" height="50" /> &nbsp; 
+<img  src="./image/ejs.svg" alt="ejs" height="50" /> &nbsp; 
 <img  src="./image/tailwind.svg" alt="tailwind.svg" height="50" /> &nbsp; 
 <img  src="./image/reactjs.svg" alt="reactjs.svg" height="50" /> &nbsp; 
 <img  src="./image/nextjs.svg" alt="nextjs.svg" height="50" /> 
@@ -53,6 +54,7 @@
 
 <div align="center">  
 <img  src="./image/mongoDB.svg" alt="MongoDB" height="50" /> &nbsp;
+<img  src="./image/mysql.svg" alt="MySQL" height="50" />
 </div>
 
 ### System & Deployment
