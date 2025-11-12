@@ -71,8 +71,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./image/tool-dark.svg">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./image/tool-light.svg">
-</picture> &nbsp;
-<img  src="./image/ngrok.svg" alt="Ngrok" height="50" />  
+</picture> 
 </div>
 
 ## ⚡️ Where to find me
