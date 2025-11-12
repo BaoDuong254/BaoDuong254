@@ -19,33 +19,28 @@
 ### Programming Languages
 
 <div align="center">  
-<img  src="./image/c.svg" alt="C" height="50" /> &nbsp; 
-<img  src="./image/cpp.svg" alt="C++" height="50" />  &nbsp;
-<img  src="./image/js.svg" alt="JavaScript" height="50" /> &nbsp;
-<img  src="./image/typescript.svg" alt="TypeScript" height="50" />
+<img  src="./image/programming-languages.svg" alt="Programing languages"/>
 </div>
 
 ### Frontend Development
 
 <div align="center">  
-<img  src="./image/html5.svg" alt="HTML5" height="50" /> &nbsp; 
-<img  src="./image/css3.svg" alt="CSS3" height="50" /> &nbsp; 
-<img  src="./image/bootstrap.svg" alt="Bootstrap" height="50" /> &nbsp; 
-<img  src="./image/ejs.svg" alt="ejs" height="50" /> &nbsp; 
-<img  src="./image/tailwind.svg" alt="tailwind.svg" height="50" /> &nbsp; 
-<img  src="./image/reactjs.svg" alt="reactjs.svg" height="50" /> &nbsp; 
-<img  src="./image/nextjs.svg" alt="nextjs.svg" height="50" /> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./image/FE-dark.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./image/FE-light.svg">
+</picture>
 </div>
 
 ### Backend Development
 
 <div align="center" style="margin-bottom:-30px">  
-<img  src="./image/nodejs.svg" alt="Node.js" height="100" /> &nbsp;
-<img  src="./image/expressjs.svg" alt="Express.js" height="90" />  &nbsp;
-<img  src="./image/nestjs.svg" alt="Nest.js" height="80" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./image/BE-dark.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./image/BE-light.svg">
+</picture>
 </div>
 
-### Desktop Development
+### App Development
 
 <div align="center" style="margin-bottom:-30px">  
 <img  src="./image/electronjs.svg" alt="electronjs.svg" height="50" />
@@ -54,26 +49,30 @@
 ### Database
 
 <div align="center">  
-<img  src="./image/mongoDB.svg" alt="MongoDB" height="50" /> &nbsp;
-<img  src="./image/mysql.svg" alt="MySQL" height="50" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./image/DB-dark.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./image/DB-light.svg">
+</picture> &nbsp;
+<img  src="./image/microsoftsqlserver-plain.svg" alt="SQL Server" height="50" />
 </div>
 
-### System & Deployment
+### DevOps
 
 <div align="center">  
-<img  src="./image/linux.svg" alt="Linux" height="50" />  &nbsp; 
-<img  src="./image/bash.svg" alt="Bash" height="50" /> &nbsp;
-<img  src="./image/docker.svg" alt="Docker" height="50" /> &nbsp;
-<img  src="./image/nginx.svg" alt="Nginx" height="50" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./image/DO-dark.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./image/DO-light.svg">
+</picture>
 </div>
 
 ### Tools
 
 <div align="center">  
-<img  src="./image/git.svg" alt="Git" height="50" />  &nbsp;
-<img  src="./image/latex.svg" alt="Latex" height="50" />  &nbsp; 
-<img  src="./image/postman.svg" alt="Postman" height="50" /> &nbsp;
-<img  src="./image/ngrok.svg" alt="Linux" height="50" />  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./image/tool-dark.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./image/tool-light.svg">
+</picture> &nbsp;
+<img  src="./image/ngrok.svg" alt="Ngrok" height="50" />  
 </div>
 
 ## ⚡️ Where to find me
