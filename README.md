@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bao</h1>
 
 <h3 align="center">A student at Ho Chi Minh City University of Technology</h3>
-<img  align="right" alt="coding"  src="./image/gif.webp" width="200px">
+<img  align="right" alt="coding"  src="./image/coding.gif" width="200px">
 <p align="left">
   
 - 🌱 I’m passionate about **software development**
