@@ -10,7 +10,7 @@
 
 - 📫 Hit me up anytime **duonggiabao254@gmail.com**
 
-- 📄 Check out [my CV](https://drive.google.com/file/d/1JgRUXeFLwmjCiD6_oXoA1FuTAfvGw7tE/view?usp=sharing) for more details
+- 📄 Check out [my CV](https://drive.google.com/file/d/1ZSDAqEQzJqxWV9LWesaCTx-X2139iLuq/view?usp=sharing) for more details
   
 </p>
 
@@ -19,7 +19,10 @@
 ### Programming Languages
 
 <div align="center">  
-<img  src="./image/programming-languages.svg" alt="Programing languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./image/pro-dark.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./image/pro-light.svg">
+</picture>
 </div>
 
 ### Frontend Development
