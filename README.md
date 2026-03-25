@@ -10,7 +10,7 @@
 
 - 📫 Hit me up anytime **duonggiabao254@gmail.com**
 
-- 📄 Check out [my CV](https://drive.google.com/file/d/1P_RBo9sqtB3ACzu4C-2vqxnKvil-GszB/view?usp=sharing) for more details
+- 📄 Check out [my CV](https://drive.google.com/file/d/1M1nMlFELLbYWV_U7qAjqrm71jWsjFINa/view?usp=sharing) for more details
   
 </p>
 
